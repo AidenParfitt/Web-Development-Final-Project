@@ -1,0 +1,24 @@
+body 
+{
+    background-color: rgb(41, 122, 41);
+    color: whitesmoke;
+}
+.sections 
+{
+    text-decoration: solid;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display:flex; 
+    justify-content: center; 
+
+}
+ h1
+ {
+    text-decoration: wavy;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ } 
+ .Navigation
+ {
+    text-align: left;
+    font-size: larger;
+ }

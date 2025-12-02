@@ -1,7 +1,6 @@
 body 
 {
-    background-color: rgb(41, 122, 41);
-    color: whitesmoke;
+background-color: greenyellow;
 }
 .sections 
 {
@@ -21,4 +20,12 @@ body
  {
     text-align: left;
     font-size: larger;
+ }
+ .color 
+ {
+   color: red
+ }
+ .container
+ {
+    align-items: normal;
  }

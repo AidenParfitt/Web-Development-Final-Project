@@ -1,9 +1,30 @@
-.basic 
-{ 
-    text-align:center; 
-    color:whitesmoke;
-}
+
 body 
 {
-    background-color:green;
+    background-color:rgb(22, 255, 22);
+    color: red
+}
+.color 
+{
+    color: red;
+}
+.basic 
+{ 
+    color: red;
+    background-color:greenyellow;
+    text-align: center;
+}
+.span
+{
+    align-items: center;
+}
+.flex
+{
+display:grid;
+grid-template-columns: auto;
+grid-template-columns: 1fr 2fr 1fr;
+color: whitesmoke;
+align-items: left;
+
+
 }

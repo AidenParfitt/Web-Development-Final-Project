@@ -1,6 +1,8 @@
 body 
 {
-background-color: greenyellow;
+background-color: rgb(177, 255, 59);
+color: red
+
 }
 .sections 
 {
@@ -21,15 +23,7 @@ background-color: greenyellow;
     text-align: left;
     font-size: larger;
  }
- .color 
- {
-   color: red
- }
- .container
- {
  
-
- }
  #Box-Left
  {
    text-decoration: none;

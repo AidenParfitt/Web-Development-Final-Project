@@ -11,20 +11,17 @@ color: red
     font-size: larger;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  } 
-.container
+.Colour
 {
-   display: grid;
-   grid-template-columns: 300px,300px;
-   grid-template-rows: 300px, 300px;
-   gap: 20px;
-   grid-row:1/2 ;
-   width: 400px; 
-   height:400px;
+   background-color: greenyellow;
+   color: red;
+   justify-content: center;
+   text-align: center;
 }
 
-.grid-item
+.Container
 {
-  justify-content: center;
-  color:azure
-
+   margin-left: auto ;
+   color: white; 
+   justify-content: center;
 }

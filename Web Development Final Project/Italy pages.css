@@ -1,8 +1,4 @@
 
-body 
-{
-
-}
 
 .basic 
 { 
@@ -14,18 +10,14 @@ body
 {
     align-items: center;
 }
-.flex
+.Color
 {
-display:grid;
-grid-template-columns: auto;
-grid-template-columns: 1fr 2fr 1fr;
-color: whitesmoke;
-align-items: left;
-
-
+  color:red;
+  background-color: yellowgreen;
+  text-align: center;
 }
- #Box-Left
- {
-   text-decoration: none;
-   color:azure 
- }
+.container
+{
+color: whitesmoke;
+margin-left: auto;
+}

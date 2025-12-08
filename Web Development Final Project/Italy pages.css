@@ -1,9 +1,23 @@
+
+
 .basic 
 { 
-    text-align:center; 
-    color:whitesmoke;
+    color: red;
+    background-color:greenyellow;
+    text-align: center;
 }
-body 
+.span
 {
-    background-color:green;
+    align-items: center;
+}
+.Color
+{
+  color:red;
+  background-color: yellowgreen;
+  text-align: center;
+}
+.container
+{
+color: whitesmoke;
+margin-left: auto;
 }

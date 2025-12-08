@@ -25,3 +25,19 @@ color: red
    color: white; 
    justify-content: center;
 }
+.grid 
+{
+   display: grid;
+   grid-template-rows:(1, 600px);
+   grid-template-columns:(6, 600px);
+   gap: 30px; 
+}
+.grid-item 
+{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   font-size: 15px;
+   color: red;
+   background-color: rgb(141, 255, 141);
+}
